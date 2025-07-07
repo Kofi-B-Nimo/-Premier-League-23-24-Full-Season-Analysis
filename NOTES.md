@@ -7,7 +7,15 @@ First step is to establish what questions I have or what I want to look into to 
 ## step 2
 In this second step I'm thinking that I should organize the data into categories to to define the type of data they hold within them. The three main categories would:
 
-### offensive
+### Offensive
+- big_chance_team.csv
+- player_expected_assists.csv
+- player_expected_goals.csv
+- possession_percentage_team.csv
+- team_goals_per_match.csv
+- touches_in_opp_box_team.csv
+
+### Defensive
 
 
 ## step 3
