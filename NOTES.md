@@ -34,3 +34,31 @@ The remaining tables `pl_table_2023_24.csv` & `pl_table_xg_2023_24.csv` are  tab
 
 ## step 3
 Third step in this process is to just see what data I have available to me, how it all relates to eachother or doesn't relate, if it helps me answer the questions i've posed and to essentially trim the fat if any tables dont aide me in this cause.
+
+- my initial look through brought to my attnetion that majority of the tables had columns that really werent of any use when it came to my analysis so i started by trimming the fat there. Below are a couple screenshots of what I essentially did for all the tables:
+
+dropping `player_expected_assists.csv` columns:
+
+![player expected assists column drop](https://github.com/user-attachments/assets/51b8cc1e-982d-4e30-ae01-23cc790a183d)
+
+
+output:
+
+![player expected assists column drop output](https://github.com/user-attachments/assets/84ec1dd4-b1df-4935-91c6-1f98bd3db5d7)
+
+dropping `player_expected_goals.csv` columns:
+
+![player expected goals column drop](https://github.com/user-attachments/assets/5d374dfb-6282-4f99-af5f-678eb752335b)
+
+output:
+
+![player expected goals column drop output](https://github.com/user-attachments/assets/c16773fd-cbcd-44f4-bdc5-43834503e947)
+
+
+
+
+  
+
+
+
+
