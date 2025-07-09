@@ -54,6 +54,20 @@ output:
 
 ![player expected goals column drop output](https://github.com/user-attachments/assets/c16773fd-cbcd-44f4-bdc5-43834503e947)
 
+- ⬆️ This was repeated throughout the database on all the various tables.
+
+- As mentioned above, I had to get rid of the `total_yel_card_team.csv` due to duplicate information shared with `total_red_card_team.csv`:
+
+Information included in `total_yel_card_team.csv`:
+
+![yellow card team table](https://github.com/user-attachments/assets/56a6aff0-264b-4621-9c1e-6acbb9a9c4b8)
+
+
+dropping `total_yel_card_team.csv`:
+
+![DROP yellow card team](https://github.com/user-attachments/assets/6ec7fce0-0e7f-4457-ae9b-06922f76e1b4)
+
+
 
 
 
