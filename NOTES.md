@@ -68,6 +68,13 @@ dropping `total_yel_card_team.csv`:
 ![DROP yellow card team](https://github.com/user-attachments/assets/6ec7fce0-0e7f-4457-ae9b-06922f76e1b4)
 
 
+## step 4
+I'm thinking my next step in this process is to:
+- Join tables and save the joins as new tables
+- further trim off any repetitive information or non-essential information
+- differentiate tables between individual stats and team stats ( the basis on how the joins will be executed)
+
+
 
 
 
