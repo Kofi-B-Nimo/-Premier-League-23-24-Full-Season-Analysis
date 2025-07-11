@@ -74,6 +74,9 @@ I'm thinking my next step in this process is to:
 - further trim off any repetitive information or non-essential information
 - differentiate tables between individual stats and team stats ( the basis on how the joins will be executed)
 
+HEY!!👋🏿 IM BACK, and im happy to say I finished what I set out to accomplish in step 4!
+
+
 
 
 
